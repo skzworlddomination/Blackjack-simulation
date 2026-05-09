@@ -35,7 +35,7 @@ xcode-select --install
 ## Usage
 
 ### Build
-To run the program:
+To compile the program:
 
 ```bash
 make
