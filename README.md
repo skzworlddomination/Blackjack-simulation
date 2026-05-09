@@ -41,3 +41,8 @@ To run the program:
 make
 ```
 
+then run:
+```bash
+./blackjack
+```
+
