@@ -1,12 +1,3 @@
-#Blackjack Simulation Prorgram
-
-Authors:
--Howl Liu
--Alana Dubie
--Leo Zhang
--Jed Alconcher
-
-Project Overview:
 # Blackjack Simulation Prorgram
 
 ### Authors:
