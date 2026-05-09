@@ -7,27 +7,46 @@ Authors:
 -Jed Alconcher
 
 Project Overview:
-Simple Blackjack simulation in C for beginners to learn the game without financial risk
+# Blackjack Simulation Prorgram
 
-##Installation Instructions:
+### Authors:
+-Howl Liu
 
-###Prerequesites:
+-Alana Dubie
+
+-Leo Zhang
+
+-Jed Alconcher
+
+
+## Project Overview:
+
+Simple Blackjack simulation in C for beginners to learn the game without financial risk.
+
+## Installation Instructions:
+
+### Prerequesites:
 -GCC compiler
+
 -make
 
 On Ubuntu/Debian:
 
 ```bash
 sudo apt install build-essential
+```
 
 On macOS:
 
+```bash
 xcode-select --install
-
+```
 ## Usage
 
-Run the program:
+### Build
+To run the program:
 
 ```bash
-./blackjack
+make
+```
 
