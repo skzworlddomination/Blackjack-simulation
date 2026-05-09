@@ -36,6 +36,10 @@
 *.x86_64
 *.hex
 
+# Project-specific
+*blackjack
+*nul
+
 # Debug files
 *.dSYM/
 *.su
